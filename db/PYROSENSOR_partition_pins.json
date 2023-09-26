@@ -1,0 +1,25 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "light",
+					"strict" : false
+				},
+				{
+					"name" : "pyro",
+					"strict" : false
+				},
+				{
+					"name" : "clk_50MHz",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
